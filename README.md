@@ -2,12 +2,6 @@
 <img width="343" height="285" alt="Снимок 2" src="https://github.com/user-attachments/assets/41a4d886-6bcf-449e-b96a-46f046108922" />
 
 
-
-
-
-
-
-
 <p align="center">
 
 
