@@ -1,5 +1,6 @@
 <p align="center">
-<img width="343" height="285" alt="Снимок 2" src="https://github.com/user-attachments/assets/41a4d886-6bcf-449e-b96a-46f046108922" />
+<img width="250" height="200" alt="wallpaper (2)" src="https://github.com/user-attachments/assets/161d9dff-23bc-49fc-8b66-1fedd1fdcfdf" />
+
 
 
 <p align="center">
